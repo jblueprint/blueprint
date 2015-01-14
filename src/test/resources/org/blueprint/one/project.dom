@@ -1,0 +1,8 @@
+{
+name : "" ,
+fields : {
+	id : { type : "Long" },
+	name : { type : "String" },
+	label : { type : "String" }
+	}
+}
